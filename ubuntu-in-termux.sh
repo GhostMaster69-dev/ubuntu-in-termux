@@ -37,7 +37,7 @@ echo "done."
 echo ""
 echo "Cloning Ubuntu repository..."
 cd ~
-git clone https://github.com/MFDGaming/ubuntu-in-termux.git .ubuntu-in-termux >&/dev/null
+git clone https://github.com/GhostMaster69-dev/crave-in-termux.git .crave-in-termux >&/dev/null
 echo ""
 sleep 2
 echo "3.."
@@ -54,7 +54,7 @@ echo "done."
 # Run the installation script
 echo ""
 echo "Installing Ubuntu..."
-bash .ubuntu-in-termux/ubuntu.sh -y >&/dev/null
+bash .crave-in-termux/ubuntu.sh -y >&/dev/null
 echo ""
 sleep 2
 echo "3.."
