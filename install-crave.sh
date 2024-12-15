@@ -1,6 +1,6 @@
 #!/bin/bash
 
-CRAVE_VERSION="0.2-7049"
+CRAVE_VERSION="0.2-7059"
 
 echo ""
 
